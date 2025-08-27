@@ -1,1 +1,1 @@
-a repo for logo hosting or smth
+This is literally just a repo for hosting images/logos (usually in SVG format), for https://gladetimes.midlandbus.uk
