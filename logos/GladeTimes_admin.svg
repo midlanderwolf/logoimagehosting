@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="GladeTimes_admin.svg"
+   sodipodi:docname="GladeTimesbruh.svg"
    inkscape:export-filename="GladeTimes.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.42461218"
-     inkscape:cx="1205.8062"
-     inkscape:cy="168.38895"
+     inkscape:zoom="0.21230609"
+     inkscape:cx="1568.4901"
+     inkscape:cy="1024.4643"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -62,7 +62,10 @@
          stdDeviation="3.3667697"
          id="feGaussianBlur9" /></filter></defs><g
      id="g21"
-     transform="matrix(0.90143599,0,0,0.90143599,35.674857,-372.78298)"><g
+     inkscape:export-filename="GladeTimes_admin.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="translate(-14.780494,-421.22384)"><g
        id="g17"
        transform="matrix(0.94722974,0,0,0.94722974,14.729521,380.40122)"><g
          id="g16"><path
